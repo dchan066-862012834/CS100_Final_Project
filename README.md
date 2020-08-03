@@ -1,6 +1,8 @@
 # CS100_Final_Project
 A workspace for the final project for the cs 100 final project of summer session b 2020
 
+Team Members: David Chang, Najmeh Mohammadi Arani, and Chloe Truong
+
 Things To Do:
 # Phase 1
 
